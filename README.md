@@ -7,5 +7,3 @@ My GitHub profile showcases projects that reflect my skills in Flutter, Dart, cl
 I enjoy collaborating with teams, and continuously learning to stay up to date with the latest technologies.
 I'm excited to create impactful mobile experiences and grow as a software engineer.
 
-## Frameworks & Technologies
-Flutter Firebase RESTful API
