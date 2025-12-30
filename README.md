@@ -1,4 +1,7 @@
-##                                                                                                   Hi there , I'm Farah Osama👋
+<p align="center">
+  Hi there, 👋 <br>
+  I'm Farah Osama
+</p>
 
 ## 🙋‍♀️ About Me
 
