@@ -1,6 +1,7 @@
 <p align="center">
-**Hi there, I'm Farah Osama** 👋 <br>
+  <b>Hi there, I'm Farah Osama</b> 👋 <br>
 </p>
+
 
 ## 🙋‍♀️ About Me
 
